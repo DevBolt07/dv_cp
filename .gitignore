@@ -34,3 +34,19 @@ desktop.ini
 *.tmp
 *.temp
 ~$*
+
+# Generated analysis artifacts
+/bowler_stats.csv
+/deliveries_clean.csv
+/legal_deliveries.csv
+/matches_clean.csv
+/player_stats.csv
+/chart*.png
+/fig*.png
+/ipl_performance_paper.tex
+/main.tex
+
+# Local research workspace
+/research_paper/
+/Module4_Patterns.ipynb
+/Module4_Patterns (1).ipynb
