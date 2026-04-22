@@ -36,13 +36,12 @@ desktop.ini
 ~$*
 
 # Generated analysis artifacts
-/bowler_stats.csv
-/deliveries_clean.csv
-/legal_deliveries.csv
-/matches_clean.csv
-/player_stats.csv
-/chart*.png
-/fig*.png
+/data/clean/*
+!/data/clean/.gitkeep
+/data/derived/*
+!/data/derived/.gitkeep
+/outputs/figures/*
+!/outputs/figures/.gitkeep
 /ipl_performance_paper.tex
 /main.tex
 
