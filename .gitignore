@@ -42,9 +42,9 @@ desktop.ini
 !/data/derived/.gitkeep
 /outputs/figures/*
 !/outputs/figures/.gitkeep
+!/outputs/figures/*.png
 /ipl_performance_paper.tex
 /main.tex
 
 # Local research workspace
 /research_paper/
-
